@@ -1,0 +1,1 @@
+{"<pad>": 0, "<s>": 1, "</s>": 2, "<unk>": 3, "I_TURN_RIGHT": 4, "I_RUN": 5, "I_WALK": 6, "I_TURN_LEFT": 7, "I_LOOK": 8, "I_JUMP": 9, "walk": 10, "opposite": 11, "right": 12, "thrice": 13, "after": 14, "run": 15, "left": 16, "and": 17, "look": 18, "around": 19, "twice": 20, "jump": 21, "turn": 22}
